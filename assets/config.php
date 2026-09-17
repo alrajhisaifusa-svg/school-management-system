@@ -3,7 +3,7 @@
    
     $user = "root";
     $password = "";
-    $db = "_sms";
+    $db = "_school_db";
     
     $conn = mysqli_connect($server, $user, $password, $db);
 
